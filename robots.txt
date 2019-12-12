@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /README.md
+Disallow: /.jshintrc
+Disallow: /.gitignore
+Disallow: /LICENSE.md
+
+Sitemap: https://tik-services.com/sitemap.xml
